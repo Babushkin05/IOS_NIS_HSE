@@ -7,5 +7,6 @@
 ----
 ## Результат
 
+<img src="result.GIF" width="200"/>
 
-![result](result.GIF)
+
